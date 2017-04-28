@@ -1,0 +1,11 @@
+OH MY GOODNESS I AM TYPING A THING!
+
+Maybe something useful, like...
+
+
+git clone https://github.com/chris-combs/thisThingThing.git
+
+
+that's how I made the thing thing appear on my computer
+
+
